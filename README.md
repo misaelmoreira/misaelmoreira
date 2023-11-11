@@ -26,10 +26,9 @@ I'm a Fullstack developer
 
 
 ## ⚡ GitHub Stats
-<div align="left">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelmoreira&show_icons=true&theme=tokyonight&count_private=true&langs_count=8" />   
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/?username=misaelmoreira&show_icons=true&theme=tokyonight&count_private=true" />  
-</div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=misaelmoreira&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaelmoreira&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&langs_count=8&hide=TeX&layout=compact)
       
 
 
